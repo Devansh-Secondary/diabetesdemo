@@ -1,4 +1,3 @@
-from turtle import width
 import numpy as np
 import pickle
 
@@ -34,7 +33,6 @@ def diabetes_prediction(input_data):
 
 import streamlit as st
 
-from PIL import Image
 
 
 # In[7]:
